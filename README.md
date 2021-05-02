@@ -28,7 +28,7 @@
 
    We can [customize the logger](https://kafka.js.org/docs/custom-logger) - e.g. to use Winston instead.
 
-3. Spin up a producer.
+3. Open a separate / new terminal and spin up a producer.
 
    ```sh
    npm run producer
